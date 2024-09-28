@@ -19,7 +19,7 @@ Feel free to connect with me for collaboration or inquiries!
 ## Contact
 
  [![LinkedIn](https://img.icons8.com/ios-filled/50/0072b1/linkedin.png)](https://www.linkedin.com/in/leonardo-los-angeles-prado/) 
- [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/leonardodiprado/) 
+ [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/l-killjoy/) 
  [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:leoprado@ucm.es) 
  [![Twitter](https://img.icons8.com/ios-filled/50/1da1f2/twitter.png)](https://twitter.com/MelkorErhimgor) 
  [![Instagram](https://img.icons8.com/ios-filled/50/ffc0cb/instagram-new.png)](https://www.instagram.com/leonardo.los.angeles/) 
