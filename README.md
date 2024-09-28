@@ -16,8 +16,6 @@ I am a third-year Computer Science student at **Complutense University of Madrid
 
 Feel free to connect with me for collaboration or inquiries!
 
-## Contact
-
  [![LinkedIn](https://img.icons8.com/ios-filled/50/0072b1/linkedin.png)](https://www.linkedin.com/in/leonardo-los-angeles-prado/) 
  [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/l-killjoy/) 
  [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:leoprado@ucm.es) 
