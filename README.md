@@ -22,9 +22,9 @@ Feel free to connect with me for collaboration or inquiries!
  [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/l-killjoy/) 
  [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:leoprado@ucm.es) 
  [![Twitter](https://img.icons8.com/ios-filled/50/1da1f2/twitter.png)](https://twitter.com/MelkorErhimgor) 
- [![Instagram](https://img.icons8.com/ios-filled/50/ffc0cb/instagram-new.png)](https://www.instagram.com/leonardo.los.angeles/) 
+ [![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/leonardo.los.angeles/) 
  [![Goodreads](https://img.icons8.com/ios-filled/50/3fb750/goodreads.png)](https://www.goodreads.com/user/show/136462994-leonardo-prado) 
- [![Letterboxd](https://img.icons8.com/ios-filled/50/FFBB00/letterboxd.png)](https://letterboxd.com/LeonardoPrado/)
- [![LeetCode](https://img.icons8.com/ios-filled/50/FFFFFF/leetcode.png)](https://leetcode.com/u/l-killjoy/)
+ [![Letterboxd](https://img.icons8.com/?size=50&id=dTnS4ZyRDedn&format=png&color=000000)](https://letterboxd.com/LeonardoPrado/)
+ [![LeetCode](https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/l-killjoy/)
 
 THANKS
