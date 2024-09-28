@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @L-Killjoy
-- 👀 I’m very much interested in almost everything! From programming and development, passing through graphical design, audiovisual production and storytelling.
-- 🌱 I’m currently learning C#, Java and Python, aiming towards game development.
-- 💞️ I’m looking to collaborate on games and game development.
-- 📫 @MelkorErhimgor on Twitter.
-- 📫 leonardo.los.angeles on Instagram.
-- 📫 leoprado@ucm.es if you wanna collaborate on development or tech project.
+
+# Leonardo Prado de Souza
+
+## About Me
+
+I am a third-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Game Development** and **Algorithms** within the **Computing Itinerary** of the **Ingeniería Informática** program. 
+
+## Skills
+
+- **Programming Languages**: C++, Java, SQL
+- **Game Development**: Unity, Lua, LOVE2D, Godot
+- **Algorithms**: Data structures, sorting algorithms, optimization techniques
+- **AI**: Basic understanding of machine learning concepts
+
+## Contact
+
+Feel free to connect with me for collaboration or inquiries!
+
+## Contact
+
+ [![LinkedIn](https://img.icons8.com/ios-filled/50/0072b1/linkedin.png)](https://www.linkedin.com/in/leonardo-los-angeles-prado/) 
+ [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/leonardodiprado/) 
+ [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:leoprado@ucm.es) 
+ [![Twitter](https://img.icons8.com/ios-filled/50/1da1f2/twitter.png)](https://twitter.com/MelkorErhimgor) 
+ [![Instagram](https://img.icons8.com/ios-filled/50/ffc0cb/instagram-new.png)](https://www.instagram.com/leonardo.los.angeles/) 
+ [![Goodreads](https://img.icons8.com/ios-filled/50/3fb750/goodreads.png)](https://www.goodreads.com/user/show/136462994-leonardo-prado) 
 
 THANKS
