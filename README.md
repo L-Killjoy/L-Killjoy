@@ -7,8 +7,9 @@ I am a third-year Computer Science student at **Complutense University of Madrid
 
 ## Skills
 
-- **Programming Languages**: C++, Java, SQL
-- **Game Development**: Unity, Lua, LOVE2D, Godot
+- **Programming Languages**: C, C++, Java, Python, R, Lua, PL/SQL, VHDL
+- **Game Development**: Unity, LOVE2D, Godot
+- **IDEs**: Vivado, Code Composer Studio, Visual Studio 2022, Eclipse, RStudio, VS Code
 - **Algorithms**: Data structures, sorting algorithms, optimization techniques
 - **AI**: Basic understanding of machine learning concepts
 
