@@ -3,15 +3,15 @@
 
 ## About Me
 
-I am a third-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Game Development** and **Algorithms** within the **Computing Itinerary** of the **Ingeniería Informática** program. 
+I am a final-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Game Development** and **Algorithms** within the **Computing Itinerary** of the **Ingeniería Informática** program. 
 
 ## Skills
 
-- **Programming Languages**: C, C++, Java, Python, R, Lua, PL/SQL, VHDL
-- **Game Development**: Unity, LOVE2D, Godot
-- **IDEs**: Vivado, Code Composer Studio, Visual Studio 2022, Eclipse, RStudio, VS Code
-- **Algorithms**: Data structures, sorting algorithms, optimization techniques
-- **AI**: Basic understanding of machine learning concepts
+- **Programming Languages**: C, C++, Java, JavaScript, Python, Haskell, Prolog, R, Lua, PL/SQL, VHDL
+- **Game Development**:  Godot, Unity, LOVE2D
+- **IDEs**: VS Code, Vivado, Code Composer Studio, Visual Studio 2022, Eclipse, RStudio
+- **Algorithms**: Strong foundation in data structures (trees, graphs, hash tables) and algorithm design (divide & conquer, greedy, dynamic programming), including complexity analysis and practical implementation of graph algorithms (shortest path, traversal).
+- **AI**: Completion of advanced AI coursework, including search algorithms, knowledge representation, and machine learning foundations. Strong focus on evolutionary computation and optimization techniques, with recognition as a top-performing student in Evolutionary Programming.
 
 ## Contact
 
