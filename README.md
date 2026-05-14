@@ -24,7 +24,7 @@ Feel free to connect with me for collaboration or inquiries!
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0072b1/linkedin.png)](https://www.linkedin.com/in/leonardo-los-angeles-prado/) 
 [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/l-killjoy/) 
-[![Itch.io](https://img.icons8.com/ios-filled/50/fa5c5c/itch-io.png)](https://l-killjoy.itch.io/)
+[![Itch.io](https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000)](https://l-killjoy.itch.io/)
 [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:leoprado@ucm.es) 
 [![Twitter](https://img.icons8.com/ios-filled/50/1da1f2/twitter.png)](https://twitter.com/MelkorErhimgor) 
 [![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/leonardo.los.angeles/) 
